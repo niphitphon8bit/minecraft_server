@@ -1336,15 +1336,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2020-03-29 02:03:55 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-03-29 01:36:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-29 02:03:55 +0700"
     },
     "done": true
   },
@@ -1857,15 +1857,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2020-03-29 01:36:24 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-28 23:32:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-03-29 01:36:24 +0700"
     },
     "done": true
   },
@@ -2241,15 +2241,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-03-29 00:52:55 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-28 23:32:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-29 00:52:55 +0700"
     },
     "done": true
   },
