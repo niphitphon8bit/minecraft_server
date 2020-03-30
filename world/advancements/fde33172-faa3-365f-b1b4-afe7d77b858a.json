@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-03-30 22:04:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-03-28 17:15:38 +0700"
@@ -514,6 +520,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-03-30 23:50:22 +0700",
       "minecraft:skeleton": "2020-03-27 19:21:15 +0700",
       "minecraft:spider": "2020-03-27 19:41:25 +0700",
       "minecraft:creeper": "2020-03-30 17:34:06 +0700",
@@ -617,6 +624,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-27 19:24:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-03-30 23:50:22 +0700"
     },
     "done": true
   },
@@ -1656,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-30 20:50:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-28 21:15:39 +0700"
@@ -1672,7 +1691,8 @@
     "criteria": {
       "minecraft:pig": "2020-03-28 17:47:05 +0700",
       "minecraft:sheep": "2020-03-27 20:59:16 +0700",
-      "minecraft:cow": "2020-03-28 17:41:57 +0700"
+      "minecraft:cow": "2020-03-28 17:41:57 +0700",
+      "minecraft:chicken": "2020-03-30 22:48:57 +0700"
     },
     "done": false
   },
@@ -2312,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-31 02:24:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-03-27 19:04:19 +0700"
@@ -2447,6 +2473,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-28 23:45:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-30 21:50:48 +0700"
     },
     "done": true
   },
