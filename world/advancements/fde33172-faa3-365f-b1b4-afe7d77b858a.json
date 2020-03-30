@@ -516,6 +516,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-27 19:21:15 +0700",
       "minecraft:spider": "2020-03-27 19:41:25 +0700",
+      "minecraft:creeper": "2020-03-30 17:34:06 +0700",
       "minecraft:phantom": "2020-03-27 21:15:28 +0700",
       "minecraft:witch": "2020-03-28 17:23:14 +0700",
       "minecraft:zombie": "2020-03-27 19:53:57 +0700",
@@ -532,6 +533,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2020-03-30 01:09:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-30 17:56:37 +0700"
     },
     "done": true
   },
@@ -616,6 +623,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-28 23:32:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-30 17:55:55 +0700"
     },
     "done": true
   },
@@ -949,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-03-30 15:00:55 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-03-27 19:24:08 +0700"
@@ -1169,6 +1188,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-03-27 20:27:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-03-30 17:55:55 +0700"
     },
     "done": true
   },
