@@ -1,58 +1,98 @@
-[17:57:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:57:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:57:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:57:01] [Server thread/INFO]: Loading properties
-[17:57:01] [Server thread/INFO]: Default game type: SURVIVAL
-[17:57:01] [Server thread/INFO]: Generating keypair
-[17:57:01] [Server thread/INFO]: Starting Minecraft server on 10.109.39.46:25565
-[17:57:01] [Server thread/INFO]: Using default channel type
-[17:57:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:57:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:57:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:57:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:57:02] [Server thread/INFO]: Preparing level "world"
-[17:57:02] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, COVID-ISERL.zip
-[17:57:02] [Server thread/INFO]: Loaded 6 recipes
-[17:57:03] [Server thread/INFO]: Loaded 18 custom command functions
-[17:57:03] [Server thread/INFO]: Loaded 825 advancements
-[17:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:57:06] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:57:06] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:57:06] [Server thread/INFO]: Preparing spawn area: 86%
-[17:57:06] [Server thread/INFO]: Time elapsed: 2544 ms
-[17:57:06] [Server thread/INFO]: Done (4.040s)! For help, type "help"
-[17:57:09] [Server thread/INFO]: First-AP[/10.70.20.82:50363] logged in with entity id 289 at (-44.12750406804045, 68.0, -256.0234932750841)
-[17:57:09] [Server thread/INFO]: First-AP joined the game
-[17:57:11] [Server thread/INFO]: PechTK[/10.109.39.46:64489] logged in with entity id 505 at (-11.547553915215111, 62.9375, -192.47896487693103)
-[17:57:11] [Server thread/INFO]: PechTK joined the game
-[17:57:13] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID c6779661-d8a1-460d-88c5-48310add54d2
-[17:57:13] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 1ad33e25-47d8-40c9-a28e-2295d1ebeee2
-[17:57:13] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 447b8436-13ce-4959-96ba-461d7e93ad8c
-[17:57:13] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID ea0d5a56-3c74-4ffa-a6e4-2935b933fc1f
-[17:57:13] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID f1d0c50c-712d-4746-9855-07a9a7b16ef5
-[17:57:17] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID e8e268e3-cabc-4c95-8019-0df041d35be2
-[17:57:18] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2c048777-6402-4674-8b24-46b197a27025
-[17:57:18] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 9deadec3-07ed-4a92-a4dc-397d8f075259
-[17:57:40] [Server thread/INFO]: First-AP lost connection: Disconnected
-[17:57:40] [Server thread/INFO]: First-AP left the game
-[17:57:55] [Server thread/INFO]: First-AP[/10.70.20.82:50365] logged in with entity id 1245 at (-44.12750406804045, 68.0, -256.0234932750841)
-[17:57:55] [Server thread/INFO]: First-AP joined the game
-[17:58:28] [Server thread/INFO]: First-AP lost connection: Timed out
-[17:58:28] [Server thread/INFO]: First-AP left the game
-[18:01:52] [Server thread/INFO]: First-AP[/10.70.20.82:50826] logged in with entity id 1825 at (-44.12750406804045, 68.0, -256.0234932750841)
-[18:01:52] [Server thread/INFO]: First-AP joined the game
-[18:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[18:02:25] [Server thread/INFO]: First-AP lost connection: Timed out
-[18:02:25] [Server thread/INFO]: First-AP left the game
-[18:02:59] [Server thread/INFO]: PechTK lost connection: Disconnected
-[18:02:59] [Server thread/INFO]: PechTK left the game
-[18:03:43] [Server thread/INFO]: First-AP[/10.70.20.82:50837] logged in with entity id 2031 at (-44.12750406804045, 68.0, -256.0234932750841)
-[18:03:43] [Server thread/INFO]: First-AP joined the game
-[18:04:43] [Server thread/INFO]: First-AP lost connection: Disconnected
-[18:04:43] [Server thread/INFO]: First-AP left the game
+[00:16:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:16:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:16:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:16:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:16:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:16:31] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:16:31] [Server thread/INFO]: Loading properties
+[00:16:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:16:31] [Server thread/INFO]: Generating keypair
+[00:16:31] [Server thread/INFO]: Starting Minecraft server on 25.114.233.2:25565
+[00:16:31] [Server thread/INFO]: Using default channel type
+[00:16:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:16:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:16:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:16:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:16:39] [Server thread/INFO]: Preparing level "world"
+[00:16:39] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, COVID-ISERL.zip
+[00:16:40] [Server thread/INFO]: Loaded 6 recipes
+[00:16:41] [Server thread/INFO]: Loaded 18 custom command functions
+[00:16:41] [Server thread/INFO]: Loaded 825 advancements
+[00:16:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[00:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[00:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[00:16:42] [Server thread/INFO]: Preparing spawn area: 20%
+[00:16:44] [Server thread/INFO]: Time elapsed: 2732 ms
+[00:16:44] [Server thread/INFO]: Done (4.182s)! For help, type "help"
+[00:17:29] [Server thread/INFO]: TAR[/25.89.206.147:59458] logged in with entity id 377 at (-103.69999998807907, 63.0, -246.67496109252113)
+[00:17:29] [Server thread/INFO]: TAR joined the game
+[00:17:46] [Server thread/INFO]: PechTK[/25.118.182.2:51288] logged in with entity id 765 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:17:46] [Server thread/INFO]: PechTK joined the game
+[00:17:58] [Server thread/INFO]: nipzbois[/25.114.233.2:58070] logged in with entity id 865 at (-69.6999999880791, 56.0, -258.6849294278735)
+[00:17:58] [Server thread/INFO]: nipzbois joined the game
+[00:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:18:06] [Server thread/INFO]: PechTK lost connection: Disconnected
+[00:18:06] [Server thread/INFO]: PechTK left the game
+[00:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4642ms or 92 ticks behind
+[00:18:26] [Server thread/INFO]: PechTK[/25.118.182.2:51296] logged in with entity id 978 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:18:26] [Server thread/INFO]: PechTK joined the game
+[00:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
+[00:18:50] [Server thread/INFO]: PechTK lost connection: Timed out
+[00:18:50] [Server thread/INFO]: PechTK left the game
+[00:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4850ms or 97 ticks behind
+[00:19:13] [Server thread/INFO]: PechTK[/25.118.182.2:51303] logged in with entity id 1163 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:19:13] [Server thread/INFO]: PechTK joined the game
+[00:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4802ms or 96 ticks behind
+[00:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[00:19:47] [Server thread/INFO]: PechTK lost connection: Timed out
+[00:19:47] [Server thread/INFO]: PechTK left the game
+[00:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4162ms or 83 ticks behind
+[00:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:21:01] [Server thread/INFO]: PechTK[/25.118.182.2:51328] logged in with entity id 1578 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:21:01] [Server thread/INFO]: PechTK joined the game
+[00:21:04] [Server thread/INFO]: nipzbois lost connection: Disconnected
+[00:21:04] [Server thread/INFO]: nipzbois left the game
+[00:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
+[00:21:23] [Server thread/INFO]: nipzbois[/25.114.233.2:58100] logged in with entity id 1679 at (-63.30000001192093, 63.0, -259.17500001192093)
+[00:21:23] [Server thread/INFO]: nipzbois joined the game
+[00:21:34] [Server thread/INFO]: PechTK lost connection: Disconnected
+[00:21:34] [Server thread/INFO]: PechTK left the game
+[00:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12477ms or 249 ticks behind
+[00:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4187ms or 83 ticks behind
+[00:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6353ms or 127 ticks behind
+[00:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[00:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[00:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
+[00:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[00:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6340ms or 126 ticks behind
+[00:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[00:24:43] [Server thread/INFO]: PechTK[/25.118.182.2:50044] logged in with entity id 2270 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:24:43] [Server thread/INFO]: PechTK joined the game
+[00:24:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6297ms or 125 ticks behind
+[00:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[00:25:18] [Server thread/INFO]: PechTK lost connection: Disconnected
+[00:25:18] [Server thread/INFO]: PechTK left the game
+[00:25:21] [Server thread/INFO]: TAR lost connection: Disconnected
+[00:25:21] [Server thread/INFO]: TAR left the game
+[00:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7752ms or 155 ticks behind
+[00:25:37] [Server thread/INFO]: PechTK[/25.118.182.2:50051] logged in with entity id 2403 at (-22.621061429101147, 63.0, -201.6322853543474)
+[00:25:37] [Server thread/INFO]: PechTK joined the game
+[00:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6821ms or 136 ticks behind
+[00:26:12] [Server thread/INFO]: PechTK lost connection: Timed out
+[00:26:12] [Server thread/INFO]: PechTK left the game
+[00:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4679ms or 93 ticks behind
+[00:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[00:26:34] [Server thread/INFO]: Stopping the server
+[00:26:34] [Server thread/INFO]: Stopping server
+[00:26:34] [Server thread/INFO]: Saving players
+[00:26:34] [Server thread/INFO]: Saving worlds
+[00:26:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:26:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:26:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:26:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:26:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
