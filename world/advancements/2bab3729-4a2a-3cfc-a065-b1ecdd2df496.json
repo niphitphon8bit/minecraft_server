@@ -379,6 +379,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-01 18:39:53 +0700",
       "cooked_mutton": "2020-03-28 17:46:08 +0700",
       "cooked_beef": "2020-03-27 20:37:17 +0700",
       "beef": "2020-03-28 17:22:05 +0700",
@@ -388,7 +389,8 @@
       "mutton": "2020-03-29 02:03:19 +0700",
       "bread": "2020-03-28 16:51:47 +0700",
       "rotten_flesh": "2020-03-28 23:25:46 +0700",
-      "cod": "2020-03-29 02:03:44 +0700"
+      "cod": "2020-03-29 02:03:44 +0700",
+      "carrot": "2020-04-01 18:29:09 +0700"
     },
     "done": false
   },
@@ -566,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-04-01 19:33:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-29 00:15:38 +0700"
@@ -669,6 +677,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:31:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-01 19:31:06 +0700"
     },
     "done": true
   },
@@ -943,6 +957,7 @@
       "minecraft:spider": "2020-03-29 02:23:03 +0700",
       "minecraft:creeper": "2020-03-30 00:01:24 +0700",
       "minecraft:phantom": "2020-03-30 01:12:04 +0700",
+      "minecraft:witch": "2020-04-01 19:33:51 +0700",
       "minecraft:zombie": "2020-03-27 20:34:41 +0700",
       "minecraft:drowned": "2020-03-28 17:38:59 +0700"
     },

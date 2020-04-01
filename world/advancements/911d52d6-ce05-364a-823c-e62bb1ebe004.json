@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 16:42:22 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-03-27 19:23:57 +0700"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-29 03:00:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-04-01 17:45:18 +0700"
     },
     "done": true
   },
@@ -516,6 +528,7 @@
       "minecraft:spider": "2020-03-29 00:20:08 +0700",
       "minecraft:creeper": "2020-03-29 00:31:15 +0700",
       "minecraft:phantom": "2020-03-27 21:16:10 +0700",
+      "minecraft:cave_spider": "2020-04-01 17:42:29 +0700",
       "minecraft:enderman": "2020-03-30 22:52:56 +0700",
       "minecraft:zombie": "2020-03-28 22:58:35 +0700",
       "minecraft:drowned": "2020-03-30 00:05:40 +0700",
@@ -700,6 +713,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-27 21:16:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-01 22:02:32 +0700"
     },
     "done": true
   },
@@ -996,6 +1015,7 @@
       "minecraft:jungle_edge": "2020-03-30 23:23:34 +0700",
       "minecraft:forest": "2020-03-27 19:21:57 +0700",
       "minecraft:mountains": "2020-03-29 02:29:11 +0700",
+      "minecraft:taiga": "2020-04-01 22:18:45 +0700",
       "minecraft:birch_forest": "2020-03-29 02:23:54 +0700",
       "minecraft:jungle_hills": "2020-03-30 23:23:50 +0700",
       "minecraft:dark_forest": "2020-03-29 02:24:52 +0700",
@@ -1419,14 +1439,17 @@
     "criteria": {
       "cooked_porkchop": "2020-03-28 22:29:15 +0700",
       "cooked_mutton": "2020-03-29 01:41:13 +0700",
+      "sweet_berries": "2020-04-01 22:23:50 +0700",
       "cooked_beef": "2020-03-27 21:15:21 +0700",
       "beef": "2020-03-29 04:14:13 +0700",
       "baked_potato": "2020-03-29 05:06:43 +0700",
       "porkchop": "2020-03-29 04:08:21 +0700",
       "apple": "2020-03-27 19:28:51 +0700",
+      "potato": "2020-04-01 17:48:11 +0700",
       "cooked_cod": "2020-03-28 23:08:57 +0700",
       "mutton": "2020-03-29 02:55:37 +0700",
       "bread": "2020-03-29 00:23:16 +0700",
+      "golden_apple": "2020-04-01 21:36:43 +0700",
       "melon_slice": "2020-03-29 03:44:50 +0700",
       "cooked_chicken": "2020-03-29 22:01:10 +0700",
       "carrot": "2020-03-29 04:29:45 +0700"
@@ -1571,11 +1594,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 16:42:22 +0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2020-03-31 00:31:04 +0700",
       "minecraft:sheep": "2020-03-31 00:30:21 +0700",
       "minecraft:cow": "2020-03-31 00:30:02 +0700",
+      "minecraft:chicken": "2020-04-01 18:10:53 +0700",
       "minecraft:wolf": "2020-03-30 22:39:57 +0700"
     },
     "done": false
@@ -1718,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-01 22:02:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-03-29 04:13:32 +0700"
@@ -1757,6 +1793,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-03-29 05:18:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-04-01 17:45:18 +0700"
     },
     "done": true
   },
@@ -1901,6 +1943,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-03-27 21:16:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 16:42:22 +0700"
     },
     "done": true
   },
@@ -2096,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-01 22:02:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-27 19:29:11 +0700"
@@ -2165,6 +2219,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:48:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-04-01 17:45:18 +0700"
     },
     "done": true
   },

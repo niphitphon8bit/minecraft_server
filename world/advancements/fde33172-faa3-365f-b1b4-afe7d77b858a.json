@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-01 18:28:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-28 21:15:39 +0700"
@@ -1096,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-04-01 17:18:54 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:06:04 +0700"
@@ -1486,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-01 17:27:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-03-29 02:56:01 +0700"
@@ -1526,6 +1544,7 @@
       "cooked_cod": "2020-03-28 17:05:42 +0700",
       "bread": "2020-03-28 16:40:19 +0700",
       "melon_slice": "2020-04-01 02:25:48 +0700",
+      "beetroot": "2020-04-01 17:28:15 +0700",
       "cooked_chicken": "2020-03-27 19:42:57 +0700",
       "cooked_salmon": "2020-03-27 20:22:05 +0700",
       "carrot": "2020-03-28 17:50:08 +0700"
@@ -1742,6 +1761,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:39:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-01 17:27:35 +0700"
     },
     "done": true
   },
