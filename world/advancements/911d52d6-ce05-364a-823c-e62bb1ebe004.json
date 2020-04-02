@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-04-02 18:59:13 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:48:16 +0700"
@@ -764,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-02 18:59:28 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-29 00:50:34 +0700"
@@ -812,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-04-02 18:59:13 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-03-27 19:22:06 +0700"
@@ -821,6 +839,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-27 19:44:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-02 18:59:28 +0700"
     },
     "done": true
   },
@@ -851,6 +875,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2020-03-30 23:24:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-04-02 18:59:13 +0700"
     },
     "done": true
   },
@@ -1016,10 +1046,13 @@
       "minecraft:forest": "2020-03-27 19:21:57 +0700",
       "minecraft:mountains": "2020-03-29 02:29:11 +0700",
       "minecraft:taiga": "2020-04-01 22:18:45 +0700",
+      "minecraft:taiga_hills": "2020-04-02 19:14:18 +0700",
+      "minecraft:jungle": "2020-04-02 19:12:38 +0700",
       "minecraft:birch_forest": "2020-03-29 02:23:54 +0700",
       "minecraft:jungle_hills": "2020-03-30 23:23:50 +0700",
       "minecraft:dark_forest": "2020-03-29 02:24:52 +0700",
       "minecraft:river": "2020-03-27 21:21:55 +0700",
+      "minecraft:birch_forest_hills": "2020-04-02 19:16:36 +0700",
       "minecraft:wooded_mountains": "2020-03-29 02:29:44 +0700",
       "minecraft:wooded_hills": "2020-03-27 19:21:01 +0700",
       "minecraft:swamp": "2020-03-29 02:30:07 +0700",
@@ -1036,6 +1069,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:31:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-02 18:59:28 +0700"
     },
     "done": true
   },
