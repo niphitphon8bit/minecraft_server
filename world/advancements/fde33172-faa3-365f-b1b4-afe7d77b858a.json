@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2020-04-05 02:52:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-03-29 00:48:01 +0700"
@@ -1071,6 +1077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-04-05 02:52:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-04-03 22:17:04 +0700"
@@ -1333,6 +1345,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-03-27 19:24:09 +0700"
+    },
+    "done": true
+  },
+  "global:vein_miner": {
+    "criteria": {
+      "trigger": "2020-04-05 01:47:30 +0700"
     },
     "done": true
   },
@@ -1950,6 +1968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-04-05 02:52:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-27 21:17:28 +0700"
@@ -2061,6 +2085,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-27 15:10:47 +0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2020-04-05 01:47:30 +0700"
     },
     "done": true
   },
@@ -2328,6 +2358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2020-04-05 02:52:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-03-28 17:23:15 +0700"
@@ -2379,6 +2415,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-03-31 02:24:42 +0700"
+    },
+    "done": true
+  },
+  "global:elemend": {
+    "criteria": {
+      "trigger": "2020-04-05 01:47:30 +0700"
     },
     "done": true
   },
