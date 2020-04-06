@@ -1234,6 +1234,12 @@
     },
     "done": true
   },
+  "global:root": {
+    "criteria": {
+      "trigger": "2020-04-05 16:29:50 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-03-27 19:23:50 +0700"
@@ -1903,6 +1909,12 @@
     },
     "done": true
   },
+  "global:elemend": {
+    "criteria": {
+      "trigger": "2020-04-05 16:29:50 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-03-27 19:22:51 +0700"
@@ -2200,6 +2212,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-03-29 02:00:49 +0700"
+    },
+    "done": true
+  },
+  "global:vein_miner": {
+    "criteria": {
+      "trigger": "2020-04-05 16:29:50 +0700"
     },
     "done": true
   },
