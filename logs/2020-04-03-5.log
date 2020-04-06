@@ -1,0 +1,61 @@
+[21:28:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:28:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:28:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:28:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:28:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:28:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:28:28] [Server thread/INFO]: Loading properties
+[21:28:28] [Server thread/INFO]: Default game type: SURVIVAL
+[21:28:28] [Server thread/INFO]: Generating keypair
+[21:28:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:28:29] [Server thread/INFO]: Using default channel type
+[21:28:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:28:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:28:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:28:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:28:37] [Server thread/INFO]: Preparing level "world"
+[21:28:37] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, COVID-ISERL.zip, mheedatapack.zip
+[21:28:38] [Server thread/ERROR]: Parsing error loading recipe crafting:bread_by_hay_block
+com.google.gson.JsonSyntaxException: Expected result to be a string, was an object ({"it...64})
+	at abk.a(SourceFile:104) ~[Minecraft_1.15.2.jar:?]
+	at abk.h(SourceFile:110) ~[Minecraft_1.15.2.jar:?]
+	at bhf.b(SourceFile:31) ~[Minecraft_1.15.2.jar:?]
+	at bhf.a(SourceFile:11) ~[Minecraft_1.15.2.jar:?]
+	at bgx.a(SourceFile:115) ~[Minecraft_1.15.2.jar:?]
+	at bgx.a(SourceFile:53) ~[Minecraft_1.15.2.jar:?]
+	at bgx.a(SourceFile:34) ~[Minecraft_1.15.2.jar:?]
+	at ze.a(SourceFile:13) ~[Minecraft_1.15.2.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at zf.a(SourceFile:71) ~[Minecraft_1.15.2.jar:?]
+	at tb.run(SourceFile:18) [Minecraft_1.15.2.jar:?]
+	at ais.c(SourceFile:144) [Minecraft_1.15.2.jar:?]
+	at aiw.c(SourceFile:23) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [Minecraft_1.15.2.jar:?]
+	at ais.w(SourceFile:118) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [Minecraft_1.15.2.jar:?]
+	at ais.c(SourceFile:127) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:1498) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:469) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:383) [Minecraft_1.15.2.jar:?]
+	at wd.d(SourceFile:219) [Minecraft_1.15.2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:628) [Minecraft_1.15.2.jar:?]
+	at java.lang.Thread.run(Thread.java:830) [?:?]
+[21:28:38] [Server thread/INFO]: Loaded 6 recipes
+[21:28:38] [Server thread/INFO]: Loaded 18 custom command functions
+[21:28:38] [Server thread/INFO]: Loaded 825 advancements
+[21:28:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:28:40] [Server thread/INFO]: Preparing spawn area: 0%
+[21:28:40] [Server thread/INFO]: Preparing spawn area: 0%
+[21:28:40] [Server thread/INFO]: Preparing spawn area: 0%
+[21:28:40] [Server thread/INFO]: Preparing spawn area: 0%
+[21:28:41] [Server thread/INFO]: Preparing spawn area: 18%
+[21:28:41] [Server thread/INFO]: Time elapsed: 2537 ms
+[21:28:41] [Server thread/INFO]: Done (4.264s)! For help, type "help"
+[21:36:14] [Server thread/INFO]: PechTK[/25.118.182.2:49546] logged in with entity id 482 at (-33.699999988079085, 62.0, -202.30723249071514)
+[21:36:14] [Server thread/INFO]: PechTK joined the game
+[22:10:41] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-50, y=63, z=-214} fk{x=-49, y=63, z=-214}
+[22:26:21] [Server thread/INFO]: PechTK lost connection: Disconnected
+[22:26:21] [Server thread/INFO]: PechTK left the game
