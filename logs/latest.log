@@ -1,350 +1,209 @@
-[18:48:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:48:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:48:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:48:57] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[18:48:57] [Server thread/INFO]: Loading properties
-[18:48:57] [Server thread/INFO]: Default game type: SURVIVAL
-[18:48:57] [Server thread/INFO]: Generating keypair
-[18:48:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:48:58] [Server thread/INFO]: Using default channel type
-[18:49:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:49:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:49:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:49:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:49:12] [Server thread/INFO]: Preparing level "world"
-[18:49:12] [Server thread/WARN]: Missing data pack file/vein_miner_u_1.15.zip
-[18:49:12] [Server thread/INFO]: Found new data pack file/vein_miner.zip, loading it automatically
-[18:49:12] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, COVID-ISERL.zip, mheedatapack.zip, vein_miner.zip
-[18:49:13] [Server thread/INFO]: Loaded 6 recipes
-[18:49:13] [Server thread/INFO]: Loaded 1827 custom command functions
-[18:49:13] [Server thread/INFO]: Loaded 832 advancements
-[18:49:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:49:15] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:15] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:15] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:15] [Server thread/INFO]: Preparing spawn area: 0%
-[18:49:16] [Server thread/INFO]: Preparing spawn area: 91%
-[18:49:16] [Server thread/INFO]: Time elapsed: 2336 ms
-[18:49:16] [Server thread/INFO]: Done (4.381s)! For help, type "help"
-[18:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
-[18:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6677ms or 133 ticks behind
-[18:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
-[19:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:15:20] [Server thread/INFO]: PechTK[/25.118.182.2:50239] logged in with entity id 836 at (-33.933719648331945, 60.5, -199.48629883007692)
-[19:15:21] [Server thread/INFO]: PechTK joined the game
-[19:15:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[19:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[19:20:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-26, y=60, z=-211} fk{x=-26, y=59, z=-211}
-[19:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[19:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[19:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[19:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
-[19:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
-[19:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[19:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[19:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[19:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[19:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[19:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
-[19:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
-[19:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[19:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
-[19:47:22] [Server thread/WARN]: PechTK moved too quickly! -8.882691921918294,1.0625,-4.509838488448764
-[19:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[19:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:56:56] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[19:57:26] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[20:00:05] [Server thread/INFO]: [PechTK: Set the weather to clear]
-[20:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[20:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:10:30] [Server thread/INFO]: First-AP[/25.114.207.113:53532] logged in with entity id 10744 at (-42.20792795441479, 63.0625, -257.0793794463258)
-[20:10:30] [Server thread/INFO]: First-AP joined the game
-[20:10:47] [Server thread/INFO]: <First-AP> hello
-[20:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[20:11:00] [Server thread/INFO]: <PechTK> spawn monster
-[20:11:09] [Server thread/INFO]: <First-AP> ????????
-[20:11:24] [Server thread/INFO]: <PechTK> ok ???????
-[20:11:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[20:12:37] [Server thread/INFO]: [Server] hello world
-[20:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[20:13:02] [Server thread/INFO]: <First-AP> hello planet
-[20:13:25] [Server thread/INFO]: <PechTK> hello univers
-[20:13:35] [Server thread/INFO]: <First-AP> universe
-[20:15:48] [Server thread/INFO]: PechTK has made the advancement [Take Aim]
-[20:19:04] [Server thread/INFO]: <First-AP> ?????? ?
-[20:19:11] [Server thread/INFO]: <PechTK> ???
-[20:19:15] [Server thread/INFO]: <PechTK> 5555555
-[20:19:22] [Server thread/INFO]: <First-AP> ???????????
-[20:20:00] [Server thread/INFO]: <PechTK> abc
-[20:25:21] [Server thread/INFO]: <PechTK> ????????
-[20:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[20:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5519ms or 110 ticks behind
-[20:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:28:10] [Server thread/INFO]: <First-AP> ???????
-[20:28:13] [Server thread/INFO]: <First-AP> discord
-[20:28:30] [Server thread/INFO]: <First-AP> ??
-[20:28:41] [Server thread/WARN]: First-AP moved wrongly!
-[20:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[20:34:42] [Server thread/INFO]: [PechTK: Set the weather to clear]
-[20:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[20:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
-[20:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[20:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[20:39:27] [Server thread/INFO]: [PechTK: The difficulty has been set to Hard]
-[20:39:42] [Server thread/INFO]: [First-AP: Set own game mode to Creative Mode]
-[20:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[20:43:30] [Server thread/INFO]: [First-AP: Set own game mode to Survival Mode]
-[20:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[20:45:57] [Server thread/INFO]: [PechTK: Set the weather to clear]
-[20:54:32] [Server thread/WARN]: PechTK moved too quickly! 7.416886892881394,0.0625,-7.091959524381934
-[20:54:50] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[20:56:19] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[20:56:35] [Server thread/INFO]: [PechTK: The difficulty has been set to Normal]
-[20:58:44] [Server thread/INFO]: PechTK lost connection: Disconnected
-[20:58:44] [Server thread/INFO]: PechTK left the game
-[21:00:21] [Server thread/INFO]: PechTK[/25.118.182.2:50622] logged in with entity id 22141 at (-35.36797893300695, 56.0, -203.89192499379394)
-[21:00:21] [Server thread/INFO]: PechTK joined the game
-[21:01:31] [Server thread/WARN]: First-AP moved wrongly!
-[21:03:02] [Server thread/WARN]: First-AP moved wrongly!
-[21:03:05] [Server thread/WARN]: PechTK moved wrongly!
-[21:05:10] [Server thread/INFO]: <First-AP> 1794
-[21:11:04] [Server thread/INFO]: <First-AP> -7 -22
-[21:11:14] [Server thread/INFO]: <First-AP> -7 -22 => nather
-[21:11:25] [Server thread/INFO]: <First-AP> -7 -22 => nether
-[21:22:24] [Server thread/INFO]: <First-AP> -1764 877 => Monument
-[21:34:16] [Server thread/INFO]: <PechTK> sleeepppz
-[21:34:57] [Server thread/INFO]: <First-AP> -1764 877 => Monument
-[21:35:57] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -5.5951762591164425,0.0,-8.828291306363667
-[21:36:16] [Server thread/INFO]: <First-AP> -1764 877 => Monument
-[21:36:19] [Server thread/WARN]: Horse moved wrongly!
-[21:36:22] [Server thread/WARN]: Horse moved wrongly!
-[21:36:22] [Server thread/WARN]: Horse moved wrongly!
-[21:36:22] [Server thread/WARN]: Horse moved wrongly!
-[21:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.240623266553996,0.0,7.2923937617631225
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.548293994111475,0.0,7.587815427524788
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.855967352006928,0.0,7.8832347771634375
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.163642117343727,-0.07683200149536162,8.178652887490813
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.342577239016293,-0.2274534586630068,8.350459739467226
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.516456074236714,-0.4489423104376016,8.517411605617411
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.685825713069107,-0.7384922093173572,8.680033795282952
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -5.579174277931884,-1.0,8.240043843099357
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -5.903563453360221,-1.0,8.50432123067003
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -6.239006950909015,-1.0,8.760290136555199
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -6.584169945310123,-1.0,9.006238804714599
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -6.940009143771249,-1.0,9.238007960738486
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.308214122934714,-1.0768320014953616,9.449839772126609
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.523627745909664,-1.2274534586630068,9.570596092826378
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.734457008211848,-1.4489423104376016,9.684820338866473
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -7.941557162614629,-1.7384922093173572,9.792080810386835
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.145808543168698,-2.093407939109099,9.891004163002236
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.347645388296314,-2.5111010141305457,9.981619415153233
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -8.547347173557512,-2.989085452684037,10.064670670447697
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 9.118876868211828,3.0768320014953616,-10.228644980086301
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 8.520994539643084,3.422260391790786,-10.057211048605978
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 13.11887919632187,3.6003458212965285,-10.995555613156341
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 12.797532902456737,3.76833652529956,-10.903352993237718
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 12.492021389876697,3.852842799068796,-10.815233853379397
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 12.20133060074977,3.8571706244810002,-10.728857053150449
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.926399647328253,3.784495066592413,-10.639702355287767
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.667649954238243,3.6378654579423966,-10.545730038630808
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.423484001883253,3.4202103775587602,-10.447319105110722
-[21:38:32] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.192828633582621,3.13434243279454,-10.344501846902261
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:32] [Server thread/WARN]: Horse moved wrongly!
-[21:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[21:38:52] [Server thread/WARN]: Horse moved wrongly!
-[21:38:52] [Server thread/WARN]: Horse moved wrongly!
-[21:38:54] [Server thread/WARN]: Horse moved wrongly!
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -9.90271390939779,0.0,2.651759505315283
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -10.250994583470401,0.0,2.8976728976304855
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -10.597097123966023,0.0,3.146760358748139
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -10.940797545140413,0.0,3.3992091206155806
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -11.28195868039279,0.0,3.6551063534989225
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -11.621761094376097,0.0,3.9128487944677772
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -11.960836483698586,0.0,4.171578569493704
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -12.299522856620115,0.0,4.43083664728826
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -12.638946036045127,0.0,4.689137409010556
-[21:39:02] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! -12.982136845600053,0.0,4.942326970373841
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:39:06] [Server thread/WARN]: Horse (vehicle of PechTK) moved too quickly! 11.040400449384151,-10.0,-6.908425674672088
-[21:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -7.122098627477044,-5.716352444532461,4.221713826013399
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -7.312299555102527,-5.937841296307056,4.351783930362899
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -7.499905095507529,-6.2273911951868115,4.485238079255794
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -7.68519606952259,-6.488898985869454,4.621710119159502
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -8.029812761098583,-6.488898985869454,4.918474307099302
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -8.17835070682031,-6.488898985869454,5.2564899921352435
-[21:41:17] [Server thread/WARN]: Horse (vehicle of First-AP) moved too quickly! -8.340967700564761,-6.488898985869454,5.628081079449373
-[21:41:20] [Server thread/WARN]: Horse moved wrongly!
-[21:41:20] [Server thread/WARN]: Horse moved wrongly!
-[21:41:21] [Server thread/WARN]: Horse moved wrongly!
-[21:41:21] [Server thread/WARN]: Horse moved wrongly!
-[21:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15780ms or 315 ticks behind
-[21:41:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8265ms or 165 ticks behind
-[21:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21423ms or 428 ticks behind
-[21:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29979ms or 599 ticks behind
-[21:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35134ms or 702 ticks behind
-[21:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26627ms or 532 ticks behind
-[21:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18653ms or 373 ticks behind
-[21:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3687ms or 73 ticks behind
-[21:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
-[21:45:57] [Server thread/INFO]: PechTK lost connection: Disconnected
-[21:45:57] [Server thread/INFO]: PechTK left the game
-[21:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
-[21:46:08] [Server thread/INFO]: [First-AP: Set own game mode to Creative Mode]
-[21:46:21] [Server thread/INFO]: PechTK[/25.118.182.2:50677] logged in with entity id 31218 at (-1145.8023273387698, 64.00000002384186, 757.878596717085)
-[21:46:21] [Server thread/INFO]: PechTK joined the game
-[21:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[21:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[21:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
-[21:47:18] [Server thread/WARN]: Horse moved wrongly!
-[21:47:18] [Server thread/WARN]: Horse moved wrongly!
-[21:47:18] [Server thread/WARN]: Horse moved wrongly!
-[21:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
-[21:47:47] [Server thread/INFO]: [First-AP: Set own game mode to Survival Mode]
-[21:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6264ms or 125 ticks behind
-[21:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
-[21:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[21:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4674ms or 93 ticks behind
-[21:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6862ms or 137 ticks behind
-[21:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
-[21:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
-[21:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
-[21:50:37] [Server thread/WARN]: Boat moved wrongly!
-[21:50:37] [Server thread/WARN]: Boat moved wrongly!
-[21:50:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6636ms or 132 ticks behind
-[21:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18756ms or 375 ticks behind
-[21:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29597ms or 591 ticks behind
-[21:52:22] [Server thread/INFO]: [First-AP: Gave 1 [Lead] to First-AP]
-[21:52:27] [Server thread/INFO]: [First-AP: Gave 1 [Lead] to PechTK]
-[21:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10441ms or 208 ticks behind
-[21:52:52] [Server thread/INFO]: TAR[/25.89.206.147:64877] logged in with entity id 33440 at (-114.40567425592295, 64.5, -247.4636914234203)
-[21:52:52] [Server thread/INFO]: TAR joined the game
-[21:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16363ms or 327 ticks behind
-[21:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20767ms or 415 ticks behind
-[21:54:29] [Server thread/INFO]: [First-AP: Gave 1 [Lead] to First-AP]
-[21:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29250ms or 585 ticks behind
-[21:54:49] [Server thread/WARN]: TAR moved wrongly!
-[21:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13368ms or 267 ticks behind
-[21:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20901ms or 418 ticks behind
-[21:56:11] [Server thread/INFO]: [First-AP: Gave 1 [Lead] to First-AP]
-[21:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30314ms or 606 ticks behind
-[21:56:32] [Server thread/INFO]: [First-AP: Gave 1 [Lead] to First-AP]
-[21:56:59] [Server thread/INFO]: <TAR> ???????
-[21:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35705ms or 714 ticks behind
-[21:57:11] [Server thread/INFO]: <First-AP> ???????????
-[21:57:16] [Server thread/INFO]: <First-AP> ?? Monument
-[21:57:28] [Server thread/INFO]: <TAR> ????
-[21:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20270ms or 405 ticks behind
-[21:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12191ms or 243 ticks behind
-[21:58:37] [Server thread/WARN]: First-AP moved too quickly! -4.734577842492627,1.1187904428564224,-17.03618150669365
-[21:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17062ms or 341 ticks behind
-[21:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23079ms or 461 ticks behind
-[21:59:40] [Server thread/INFO]: [First-AP: Teleported First-AP to TAR]
-[21:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12156ms or 243 ticks behind
-[22:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13908ms or 278 ticks behind
-[22:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8999ms or 179 ticks behind
-[22:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12974ms or 259 ticks behind
-[22:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8730ms or 174 ticks behind
-[22:01:37] [Server thread/INFO]: [First-AP: Teleported First-AP to PechTK]
-[22:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6576ms or 131 ticks behind
-[22:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
-[22:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11984ms or 239 ticks behind
-[22:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11524ms or 230 ticks behind
-[22:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9285ms or 185 ticks behind
-[22:03:36] [Server thread/INFO]: <First-AP> -7 -22 => nether
-[22:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10622ms or 212 ticks behind
-[22:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
-[22:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6591ms or 131 ticks behind
-[22:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11243ms or 224 ticks behind
-[22:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11444ms or 228 ticks behind
-[22:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8948ms or 178 ticks behind
-[22:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6465ms or 129 ticks behind
-[22:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
-[22:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5708ms or 114 ticks behind
-[22:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
-[22:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
-[22:08:01] [Server thread/INFO]: TAR lost connection: Disconnected
-[22:08:02] [Server thread/INFO]: TAR left the game
-[22:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
-[22:16:15] [Server thread/INFO]: <First-AP> -7 -22 => nether
-[22:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[22:40:36] [Server thread/INFO]: First-AP lost connection: Disconnected
-[22:40:36] [Server thread/INFO]: First-AP left the game
-[22:40:36] [Server thread/INFO]: PechTK lost connection: Disconnected
-[22:40:36] [Server thread/INFO]: PechTK left the game
-[22:41:28] [Server thread/INFO]: First-AP[/25.114.207.113:53829] logged in with entity id 42453 at (-9.943928801662608, 81.0, -13.52648086169658)
-[22:41:28] [Server thread/INFO]: First-AP joined the game
-[22:43:57] [Server thread/INFO]: PechTK[/25.118.182.2:50776] logged in with entity id 42884 at (-7.622203113296557, 81.0, -13.181695979855318)
-[22:43:57] [Server thread/INFO]: PechTK joined the game
-[22:44:27] [Server thread/INFO]: PechTK lost connection: Timed out
-[22:44:27] [Server thread/INFO]: PechTK left the game
-[22:48:47] [Server thread/INFO]: PechTK[/25.118.182.2:50804] logged in with entity id 43603 at (-7.622203113296557, 81.0, -13.181695979855318)
-[22:48:47] [Server thread/INFO]: PechTK joined the game
-[22:49:56] [Server thread/INFO]: <First-AP> 587 -33 => Nether (Farm totem)
-[22:56:33] [Server thread/INFO]: <First-AP> 587 -33 => Nether (Farm totem)
-[22:56:48] [Server thread/INFO]: <First-AP> 587 -33 => Nether (Farm totem)
-[22:57:28] [Server thread/INFO]: <First-AP> 587 -33 => Nether (Farm totem)
-[23:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[23:26:30] [Server thread/INFO]: <First-AP> 587 -33 => Nether (Farm totem)
-[23:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[23:27:10] [Server thread/INFO]: [First-AP: Gave 64 [Lever] to First-AP]
-[23:29:00] [Server thread/INFO]: <PechTK> byeeee
-[23:29:16] [Server thread/INFO]: PechTK lost connection: Disconnected
-[23:29:16] [Server thread/INFO]: PechTK left the game
-[23:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[23:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[23:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9567ms or 191 ticks behind
-[23:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[23:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[23:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:33:53] [Server thread/INFO]: First-AP lost connection: Disconnected
-[23:33:53] [Server thread/INFO]: First-AP left the game
-[23:34:58] [Server thread/INFO]: Stopping the server
-[23:34:58] [Server thread/INFO]: Stopping server
-[23:34:58] [Server thread/INFO]: Saving players
-[23:34:58] [Server thread/INFO]: Saving worlds
-[23:34:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:34:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:34:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:35:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:17:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:17:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:17:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:17:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:17:52] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:17:52] [Server thread/INFO]: Loading properties
+[21:17:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:52] [Server thread/INFO]: Generating keypair
+[21:17:52] [Server thread/INFO]: Starting Minecraft server on 25.114.207.113:25565
+[21:17:52] [Server thread/INFO]: Using default channel type
+[21:17:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:17:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:17:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:17:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:17:53] [Server thread/INFO]: Preparing level "world"
+[21:17:53] [Server thread/WARN]: Missing data pack file/mheedatapack.zip
+[21:17:53] [Server thread/INFO]: Found new data pack file/custom_datapack.zip, loading it automatically
+[21:17:53] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, COVID-ISERL.zip, vein_miner.zip, custom_datapack.zip
+[21:17:54] [Server thread/INFO]: Loaded 6 recipes
+[21:17:56] [Server thread/INFO]: Loaded 1827 custom command functions
+[21:17:56] [Server thread/INFO]: Loaded 832 advancements
+[21:17:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:17:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:57] [Server thread/INFO]: Time elapsed: 937 ms
+[21:17:57] [Server thread/INFO]: Done (4.314s)! For help, type "help"
+[21:18:55] [Server thread/INFO]: First-AP[/25.114.207.113:52234] logged in with entity id 610 at (-22.700341104270187, 63.0, -215.4778152140154)
+[21:18:55] [Server thread/INFO]: First-AP joined the game
+[21:22:05] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:24:37] [Server thread/INFO]: [First-AP: Set the time to 1000]
+[21:29:03] [Server thread/INFO]: TAR[/25.89.206.147:58170] logged in with entity id 4969 at (-98.642768525424, 63.0, -257.4532231585125)
+[21:29:03] [Server thread/INFO]: TAR joined the game
+[21:30:31] [Server thread/WARN]: First-AP moved too quickly! -7.074841736650569,-6.099836628574323,-14.876045469136443
+[21:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21:32:15] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[21:34:51] [Server thread/INFO]: [First-AP: Set own game mode to Creative Mode]
+[21:35:24] [Server thread/INFO]: [First-AP: Teleported First-AP to TAR]
+[21:35:37] [Server thread/INFO]: PechTK[/25.118.182.2:65296] logged in with entity id 8447 at (-39.12409301087055, 8.0, -241.6487058240457)
+[21:35:37] [Server thread/INFO]: PechTK joined the game
+[21:35:44] [Server thread/INFO]: [First-AP: Set own game mode to Survival Mode]
+[21:36:32] [Server thread/INFO]: <TAR> หา flint จากไหน
+[21:36:34] [Server thread/INFO]: <First-AP> ไปลุยกัน
+[21:36:42] [Server thread/INFO]: <First-AP> gravel
+[21:36:51] [Server thread/INFO]: <TAR> จะไปไหน
+[21:36:53] [Server thread/INFO]: <First-AP> ไปลุยมะ
+[21:37:13] [Server thread/INFO]: <TAR> ได้หมด
+[21:37:21] [Server thread/INFO]: <First-AP> เพชรๆ
+[21:37:24] [Server thread/WARN]: PechTK moved too quickly! -0.12668049200170373,7.5,7.290699308550529
+[21:37:25] [Server thread/INFO]: <First-AP> ไปสู้ๆ
+[21:37:32] [Server thread/INFO]: <First-AP> เตรียมอาวุท
+[21:37:40] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:37:46] [Server thread/INFO]: <TAR> หาขนไก่ ต้องฆ่าอย่างเดียวปะ
+[21:37:48] [Server thread/INFO]: <PechTK> สู้ใคร
+[21:38:03] [Server thread/INFO]: <PechTK> กำลังจะหลุด
+[21:38:11] [Server thread/INFO]: <First-AP> pillager outpost
+[21:38:20] [Server thread/WARN]: First-AP moved wrongly!
+[21:39:12] [Server thread/INFO]: <First-AP> หลุดยั
+[21:41:27] [Server thread/INFO]: <TAR> พร้อมละ
+[21:41:35] [Server thread/INFO]: <First-AP> รออีกคน
+[21:41:53] [Server thread/INFO]: <First-AP> สร้าง minecart เป็นไหมต้า
+[21:41:56] [Server thread/INFO]: <First-AP> สร้างมา 1 อัน
+[21:42:04] [Server thread/INFO]: <TAR> คือไร 555
+[21:42:10] [Server thread/INFO]: <First-AP> รถไฟ
+[21:42:15] [Server thread/INFO]: <PechTK> ไปเจอไหนน
+[21:42:23] [Server thread/INFO]: <First-AP> เอาเหล็กมาวางเป็นตัว U
+[21:42:27] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
+[21:42:32] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
+[21:42:34] [Server thread/INFO]: <First-AP> ไปเจอหน้าหน้าประตู nether
+[21:42:45] [Server thread/INFO]: <TAR> สร้างละ
+[21:42:56] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:43:24] [Server thread/INFO]: <First-AP> ก่อนไปสู้ เดี๋ยวพาทัวก่อน
+[21:43:26] [Server thread/INFO]: <First-AP> 55555
+[21:43:38] [Server thread/INFO]: <First-AP> รออีกคนก่อน
+[21:44:14] [Server thread/INFO]: <First-AP> ไปกัน
+[21:44:37] [Server thread/INFO]: <First-AP> ก่อนไปสู้ เดี๋ยวพาทัวก่อน
+[21:44:45] [Server thread/INFO]: <First-AP> อันนี้
+[21:44:47] [Server thread/INFO]: <First-AP> คือ
+[21:44:49] [Server thread/INFO]: <First-AP> ทางไป
+[21:44:53] [Server thread/INFO]: <First-AP> MONUMENT
+[21:45:04] [Server thread/INFO]: <First-AP> ทำแบบนี้
+[21:46:12] [Server thread/INFO]: <First-AP> บายๆ
+[21:46:43] [Server thread/INFO]: <First-AP> เค
+[21:47:10] [Server thread/INFO]: <First-AP> เห็นปะ
+[21:47:22] [Server thread/INFO]: <First-AP> จริง ๆ มันใหญ่นะ แต่แนะนำยังไม่ต้องลงน้ำ
+[21:47:24] [Server thread/INFO]: <PechTK> ดำน้ำได้ไม่นาน
+[21:47:37] [Server thread/INFO]: <First-AP> ต้องใช้ยาช่วย
+[21:47:40] [Server thread/INFO]: <TAR> เห้นไร
+[21:47:42] [Server thread/INFO]: <First-AP> หรือ
+[21:47:49] [Server thread/INFO]: <First-AP> ถ้าใช้หมวก
+[21:47:52] [Server thread/INFO]: <TAR> ใต้น้ำอ่อ
+[21:47:55] [Server thread/INFO]: <First-AP> จากกระดองเต่า
+[21:48:01] [Server thread/INFO]: <First-AP> จะหายใจได้
+[21:48:16] [Server thread/INFO]: <First-AP> มาดูใกล้ๆ ได้นะ
+[21:48:20] [Server thread/INFO]: <First-AP> แต่ระวังตาย
+[21:48:24] [Server thread/INFO]: <PechTK> เน็ตกระตุก
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 9.260300211957201,0.0,3.930874169904314
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 9.633503587744599,0.0,4.057411373529931
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 10.009002844205497,0.0,4.176818650435052
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 10.386708020823335,0.0,4.288694084855933
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 10.766497141414447,0.0,4.392787119002605
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 11.10830734089177,0.0,4.486470847252804
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 11.415936512271855,0.0,4.570786200444331
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 11.692802759179585,0.0,4.64667001630653
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 11.941982374795543,0.0,4.7149654487733414
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.166244022908813,0.0,4.776431336365135
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.368079500864042,0.0,4.831750633732327
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.549731426211565,0.0,4.881538000043861
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.71321815469355,0.0,4.926346628537203
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.860356206429515,0.0,4.966674393112839
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 12.99278044948369,0.0,5.002969380269519
+[21:48:55] [Server thread/WARN]: Boat (vehicle of PechTK) moved too quickly! 13.111962265075363,0.0,5.035634867845147
+[21:49:49] [Server thread/INFO]: <PechTK> จะตายเอา
+[21:50:54] [Server thread/INFO]: <First-AP> ที่ยิงเรามันชื่อ guardian
+[21:51:10] [Server thread/INFO]: <First-AP> ใช้ทำfarmได้
+[21:51:24] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:51:48] [Server thread/INFO]: <First-AP> ไปต่อ
+[21:52:46] [Server thread/INFO]: <First-AP> ปะ
+[21:53:33] [Server thread/WARN]: Fetching packet for removed entity awb['Minecart'/12134, l='world', x=-9.95, y=81.00, z=-13.11]
+[21:54:01] [Server thread/INFO]: <First-AP> เตฃ
+[21:54:04] [Server thread/INFO]: <First-AP> เตรียม
+[21:54:06] [Server thread/INFO]: <First-AP> สู้
+[21:54:36] [Server thread/INFO]: <First-AP> แผนคือให้รีบเข้าบ้าน
+[21:54:40] [Server thread/INFO]: <First-AP> และปิดทาง
+[21:55:34] [Server thread/INFO]: <First-AP> กดผิด
+[21:55:36] [Server thread/INFO]: <First-AP> โทษ
+[21:56:01] [Server thread/INFO]: <First-AP> ระวังตก
+[21:56:14] [Server thread/INFO]: <First-AP> เห็นปะ
+[21:56:17] [Server thread/INFO]: <First-AP> ทางนี้
+[21:56:31] [Server thread/INFO]: [First-AP: Set the weather to clear]
+[21:56:44] [Server thread/INFO]: <First-AP> มีปีกใช้ปีก
+[21:56:56] [Server thread/INFO]: <First-AP> พร้อมนะ
+[21:57:11] [Server thread/INFO]: <PechTK> ให้ทัรไปคนเดียว
+[21:57:48] [Server thread/INFO]: <First-AP> พร้อมมะ
+[21:58:00] [Server thread/INFO]: <TAR> ขอพลุ
+[21:58:31] [Server thread/INFO]: <First-AP> แนะนำมห้เข้าตึก
+[21:58:35] [Server thread/INFO]: <First-AP> และปิดทางเข้า
+[21:58:41] [Server thread/INFO]: <First-AP> จะได้ไปสำรวจข้างใน
+[21:59:13] [Server thread/INFO]: <First-AP> มันมีหน้าไม้นะ
+[21:59:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=4704, y=64, z=-182} fk{x=4705, y=64, z=-182}
+[22:00:23] [Server thread/INFO]: <PechTK> ไปเลยนะะ
+[22:02:09] [Server thread/INFO]: <TAR> ให้ฆ่าอย่างเดียวปะ
+[22:02:13] [Server thread/INFO]: <First-AP> แปป
+[22:02:20] [Server thread/INFO]: <First-AP> เดี๋ยวอธิบายฝห้ฟัง
+[22:02:26] [Server thread/INFO]: <TAR> ข้างบนมีของด้วย
+[22:02:31] [Server thread/INFO]: <First-AP> ใช่
+[22:02:50] [Server thread/INFO]: <First-AP> รู้จัก totem of undying ไหม
+[22:03:00] [Server thread/INFO]: <TAR> จะไปรุ้ได้ไง 5555
+[22:03:05] [Server thread/INFO]: TAR has made the advancement [Ol' Betsy]
+[22:03:15] [Server thread/INFO]: <First-AP> เราสามารถทำฟาร์มได้
+[22:03:17] [Server thread/WARN]: PechTK moved too quickly! -3.4639758474822884,-1.0,-9.574102415232687
+[22:03:18] [Server thread/INFO]: <First-AP> จากที่นี้
+[22:03:29] [Server thread/INFO]: <First-AP> มันมีประโยชน์มาก
+[22:03:34] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
+[22:03:35] [Server thread/INFO]: <First-AP> เดี๋ยวสาธิตให้ดู
+[22:03:41] [Server thread/INFO]: [First-AP: Set own game mode to Creative Mode]
+[22:04:04] [Server thread/INFO]: [PechTK: Set the weather to clear]
+[22:04:13] [Server thread/INFO]: <First-AP> ต้าถืออันนี้ไว้
+[22:04:25] [Server thread/INFO]: <First-AP> ถือไว้นะ
+[22:04:36] [Server thread/INFO]: <First-AP> ถือไว้นะ
+[22:04:46] [Server thread/INFO]: [First-AP: Teleported TAR to First-AP]
+[22:04:46] [Server thread/WARN]: TAR moved too quickly! 16.461082754810377,45.238240474736614,-13.101990867643053
+[22:04:55] [Server thread/INFO]: <TAR> ตกใจหมด
+[22:04:59] [Server thread/INFO]: <First-AP> อย่าพึ่งบิน
+[22:05:04] [Server thread/INFO]: <First-AP> กำลังสาธิต
+[22:05:10] [Server thread/INFO]: <First-AP> ถือไว้นะ
+[22:05:18] [Server thread/INFO]: <First-AP> ถือไว้นะ
+[22:05:23] [Server thread/INFO]: [First-AP: Teleported TAR to First-AP]
+[22:05:23] [Server thread/WARN]: TAR moved too quickly! -10.471174838990919,84.98824121969724,36.38873012407248
+[22:05:23] [Server thread/WARN]: TAR moved too quickly! -10.471174838990919,84.98824121969724,36.38873012407248
+[22:05:26] [Server thread/INFO]: TAR has reached the goal [Postmortal]
+[22:05:32] [Server thread/INFO]: <First-AP> เค
+[22:05:43] [Server thread/INFO]: <First-AP> หนี
+[22:06:24] [Server thread/INFO]: [First-AP: Set own game mode to Survival Mode]
+[22:06:39] [Server thread/INFO]: <TAR> มันตาม
+[22:06:41] [Server thread/INFO]: <First-AP> ในอนาคตจะลื้อบ้านนี้ทิ้งหมด
+[22:07:55] [Server thread/INFO]: <First-AP> ใครสร้างทางดินอะ
+[22:09:39] [Server thread/INFO]: <First-AP> ต้องปักไฟ
+[22:09:44] [Server thread/INFO]: <First-AP> มันจะได้ไม่เกิด
+[22:10:16] [Server thread/INFO]: <First-AP> ช่วยกันปักไฟ
+[22:10:18] [Server thread/INFO]: [PechTK: Set the weather to clear]
+[22:11:08] [Server thread/INFO]: First-AP has made the advancement [Voluntary Exile]
+[22:12:57] [Server thread/INFO]: TAR fell from a high place
+[22:13:01] [Server thread/INFO]: <TAR> 55555
+[22:13:01] [Server thread/INFO]: <First-AP> เอ้า
+[22:13:07] [Server thread/INFO]: [First-AP: Teleported TAR to First-AP]
+[22:13:20] [Server thread/INFO]: PechTK lost connection: Disconnected
+[22:13:20] [Server thread/INFO]: PechTK left the game
+[22:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:13:51] [Server thread/INFO]: <First-AP> หลุดหรอ
+[22:16:37] [Server thread/INFO]: <TAR> พักละ
+[22:16:39] [Server thread/INFO]: <TAR> ของหมด
+[22:16:45] [Server thread/INFO]: <First-AP> กลับ
+[22:17:02] [Server thread/INFO]: <First-AP> 5
+[22:17:04] [Server thread/INFO]: <First-AP> 555
+[22:17:08] [Server thread/INFO]: <TAR> ลงไง
+[22:17:16] [Server thread/INFO]: <First-AP> ม้วนตัวลง
+[22:18:03] [Server thread/INFO]: <First-AP> แปป
+[22:18:05] [Server thread/INFO]: <TAR> รถรางหาย
+[22:18:21] [Server thread/INFO]: <First-AP> แปป
+[22:18:24] [Server thread/INFO]: <First-AP> เดี๋ยวมา
+[22:18:28] [Server thread/INFO]: <First-AP> กลับก่อนเลย
+[22:18:35] [Server thread/INFO]: <TAR> ไม่มีรถ
+[22:20:58] [Server thread/INFO]: [First-AP: Gave 1 [Minecart] to First-AP]
+[22:21:18] [Server thread/INFO]: TAR lost connection: Disconnected
+[22:21:18] [Server thread/INFO]: TAR left the game
+[22:23:48] [Server thread/INFO]: First-AP lost connection: Disconnected
+[22:23:48] [Server thread/INFO]: First-AP left the game

@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-07 21:50:46 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:39:49 +0700"
@@ -488,9 +494,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-07 20:56:53 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:06:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-07 21:50:46 +0700"
     },
     "done": true
   },
@@ -1221,9 +1239,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-04-07 21:56:10 +0700",
       "minecraft:forest": "2020-03-27 19:01:03 +0700",
       "minecraft:mountains": "2020-03-29 02:48:50 +0700",
+      "minecraft:deep_cold_ocean": "2020-04-07 22:13:04 +0700",
+      "minecraft:snowy_tundra": "2020-04-07 21:59:27 +0700",
+      "minecraft:frozen_river": "2020-04-07 21:59:32 +0700",
       "minecraft:birch_forest": "2020-04-06 21:41:33 +0700",
+      "minecraft:snowy_beach": "2020-04-07 21:58:51 +0700",
       "minecraft:beach": "2020-04-06 21:45:13 +0700",
       "minecraft:dark_forest": "2020-03-28 17:11:38 +0700",
       "minecraft:river": "2020-03-27 19:50:52 +0700",
@@ -1370,6 +1393,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-03-27 20:27:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-07 21:50:46 +0700"
     },
     "done": true
   },
@@ -2584,6 +2613,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-27 19:09:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-04-07 20:23:46 +0700"
     },
     "done": true
   },

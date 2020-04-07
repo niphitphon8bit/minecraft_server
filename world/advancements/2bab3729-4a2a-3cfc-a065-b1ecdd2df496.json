@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-07 21:42:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 19:31:27 +0700"
@@ -224,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-28 23:15:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-07 21:42:42 +0700"
     },
     "done": true
   },
@@ -475,6 +487,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-03-27 19:39:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-07 22:05:10 +0700"
     },
     "done": true
   },
@@ -734,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-07 21:42:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-03-27 20:55:28 +0700"
@@ -815,6 +839,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:24:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-07 22:05:10 +0700"
     },
     "done": true
   },
@@ -1012,6 +1042,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-07 22:05:16 +0700",
       "minecraft:skeleton": "2020-03-28 17:35:07 +0700",
       "minecraft:zombie_pigman": "2020-03-29 02:25:59 +0700",
       "minecraft:spider": "2020-03-29 02:23:03 +0700",
@@ -1219,6 +1250,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-02 20:51:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-07 21:59:22 +0700"
     },
     "done": true
   },
@@ -1714,6 +1751,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-07 22:05:26 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-03-29 02:00:49 +0700"
@@ -1817,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-07 22:03:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:24:13 +0700"
@@ -1837,9 +1886,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-04-07 21:56:02 +0700",
       "minecraft:forest": "2020-03-27 19:32:00 +0700",
       "minecraft:mountains": "2020-03-29 02:48:50 +0700",
+      "minecraft:deep_cold_ocean": "2020-04-07 21:58:57 +0700",
+      "minecraft:snowy_tundra": "2020-04-07 22:00:38 +0700",
+      "minecraft:frozen_river": "2020-04-07 21:59:11 +0700",
       "minecraft:jungle": "2020-04-04 15:17:05 +0700",
+      "minecraft:snowy_beach": "2020-04-07 21:58:56 +0700",
+      "minecraft:beach": "2020-04-07 21:46:56 +0700",
       "minecraft:dark_forest": "2020-03-29 02:54:13 +0700",
       "minecraft:river": "2020-03-27 19:21:01 +0700",
       "minecraft:wooded_mountains": "2020-03-29 02:50:35 +0700",
@@ -1882,6 +1937,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-27 19:24:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-07 21:59:22 +0700"
     },
     "done": true
   },
@@ -2047,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-07 22:05:10 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-03-29 01:15:25 +0700"
@@ -2083,6 +2150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-07 21:42:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-03-27 20:52:43 +0700"
@@ -2116,6 +2189,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-02 20:51:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-04-07 21:42:42 +0700"
     },
     "done": true
   },
