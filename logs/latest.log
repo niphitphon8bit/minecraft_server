@@ -207,3 +207,16 @@
 [22:21:18] [Server thread/INFO]: TAR left the game
 [22:23:48] [Server thread/INFO]: First-AP lost connection: Disconnected
 [22:23:48] [Server thread/INFO]: First-AP left the game
+[22:38:34] [Server thread/INFO]: Stopping the server
+[22:38:34] [Server thread/INFO]: Stopping server
+[22:38:34] [Server thread/INFO]: Saving players
+[22:38:34] [Server thread/INFO]: Saving worlds
+[22:38:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
