@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-04-08 16:08:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-29 03:47:01 +0700"
@@ -560,6 +566,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-08 16:29:53 +0700",
       "minecraft:skeleton": "2020-03-27 19:20:49 +0700",
       "minecraft:zombie_pigman": "2020-04-03 18:28:33 +0700",
       "minecraft:ghast": "2020-04-03 18:01:26 +0700",
@@ -1084,13 +1091,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-03-30 23:23:34 +0700",
+      "minecraft:cold_ocean": "2020-04-08 16:27:37 +0700",
       "minecraft:forest": "2020-03-27 19:21:57 +0700",
       "minecraft:mountains": "2020-03-29 02:29:11 +0700",
       "minecraft:taiga": "2020-04-01 22:18:45 +0700",
+      "minecraft:deep_cold_ocean": "2020-04-08 16:28:04 +0700",
+      "minecraft:snowy_tundra": "2020-04-08 16:28:10 +0700",
       "minecraft:taiga_hills": "2020-04-02 19:14:18 +0700",
+      "minecraft:frozen_river": "2020-04-08 16:28:42 +0700",
       "minecraft:jungle": "2020-04-02 19:12:38 +0700",
       "minecraft:birch_forest": "2020-03-29 02:23:54 +0700",
       "minecraft:jungle_hills": "2020-03-30 23:23:50 +0700",
+      "minecraft:snowy_beach": "2020-04-08 16:28:08 +0700",
+      "minecraft:beach": "2020-04-08 16:19:19 +0700",
       "minecraft:dark_forest": "2020-03-29 02:24:52 +0700",
       "minecraft:river": "2020-03-27 21:21:55 +0700",
       "minecraft:birch_forest_hills": "2020-04-02 19:16:36 +0700",
@@ -1320,6 +1333,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2020-03-31 01:05:40 +0700"
+    },
+    "done": true
+  },
+  "global:vein_miner": {
+    "criteria": {
+      "trigger": "2020-04-08 14:41:40 +0700"
     },
     "done": true
   },
@@ -2044,6 +2063,12 @@
     },
     "done": true
   },
+  "global:root": {
+    "criteria": {
+      "trigger": "2020-04-08 14:41:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2020-03-30 00:58:14 +0700"
@@ -2383,6 +2408,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-04-01 17:45:18 +0700"
+    },
+    "done": true
+  },
+  "global:elemend": {
+    "criteria": {
+      "trigger": "2020-04-08 14:41:40 +0700"
     },
     "done": true
   },
