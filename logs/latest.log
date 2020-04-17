@@ -1,61 +1,15 @@
-[02:54:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:54:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:54:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:54:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:54:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:54:05] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[02:54:05] [Server thread/INFO]: Loading properties
-[02:54:05] [Server thread/INFO]: Default game type: SURVIVAL
-[02:54:05] [Server thread/INFO]: Generating keypair
-[02:54:05] [Server thread/INFO]: Starting Minecraft server on 192.168.0.100:25565
-[02:54:05] [Server thread/INFO]: Using default channel type
-[02:54:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:54:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:54:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:54:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:54:06] [Server thread/INFO]: Preparing level "world"
-[02:54:06] [Server thread/INFO]: Reloading ResourceManager: Default, recycling.zip, vein_miner.zip, mheedatapack.zip
-[02:54:07] [Server thread/INFO]: Loaded 6 recipes
-[02:54:09] [Server thread/INFO]: Loaded 1834 custom command functions
-[02:54:09] [Server thread/INFO]: Loaded 832 advancements
-[02:54:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:54:10] [Server thread/INFO]: Preparing spawn area: 0%
-[02:54:10] [Server thread/INFO]: Preparing spawn area: 0%
-[02:54:11] [Server thread/INFO]: Time elapsed: 904 ms
-[02:54:11] [Server thread/INFO]: Done (4.784s)! For help, type "help"
-[02:54:22] [Server thread/INFO]: PechTK[/192.168.0.100:60938] logged in with entity id 681 at (-60.80904920691554, 64.0, -174.26064681174745)
-[02:54:22] [Server thread/INFO]: PechTK joined the game
-[03:07:24] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[03:08:16] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[03:10:56] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[03:11:01] [Server thread/INFO]: PechTK has made the advancement [Sweet Dreams]
-[03:14:21] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[03:14:57] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[03:16:23] [Server thread/INFO]: PechTK lost connection: Disconnected
-[03:16:23] [Server thread/INFO]: PechTK left the game
-[03:17:09] [Server thread/INFO]: PechTK[/192.168.0.100:61225] logged in with entity id 4794 at (-63.27417474348968, 64.0, -97.67925138401537)
-[03:17:09] [Server thread/INFO]: PechTK joined the game
-[03:29:17] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[03:31:30] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[03:45:23] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[03:47:31] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[03:48:38] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[04:24:14] [Server thread/INFO]: [PechTK: Set own game mode to Survival Mode]
-[04:24:40] [Server thread/INFO]: [PechTK: Set own game mode to Creative Mode]
-[04:29:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14765, l='world', x=3.12, y=63.00, z=-186.16]
-[05:04:11] [Server thread/WARN]: PechTK moved too quickly! -6.980997409726967,0.0,8.356651988425256
-[05:07:12] [Server thread/INFO]: PechTK lost connection: Disconnected
-[05:07:12] [Server thread/INFO]: PechTK left the game
-[05:07:35] [Server thread/INFO]: Stopping the server
-[05:07:35] [Server thread/INFO]: Stopping server
-[05:07:35] [Server thread/INFO]: Saving players
-[05:07:35] [Server thread/INFO]: Saving worlds
-[05:07:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[05:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:07:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[05:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:07:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[05:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:11] [Server thread/INFO]: PechTK lost connection: Disconnected
+[00:31:11] [Server thread/INFO]: PechTK left the game
+[00:31:21] [Server thread/INFO]: Stopping the server
+[00:31:21] [Server thread/INFO]: Stopping server
+[00:31:21] [Server thread/INFO]: Saving players
+[00:31:21] [Server thread/INFO]: Saving worlds
+[00:31:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
